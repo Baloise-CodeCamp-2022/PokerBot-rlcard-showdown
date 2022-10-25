@@ -30,7 +30,6 @@ uploaded_agents
 # idea
 /.idea
 
-package-lock.json
 
 douzero_pretrained
 dmc_pretrained
